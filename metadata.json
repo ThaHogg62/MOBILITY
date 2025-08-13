@@ -1,0 +1,8 @@
+{
+  "name": "Tha Mobile Lab",
+  "description": "A fully functioning mobile recording studio with a user interface similar to Pro Tools, but with the ease of a drag-and-drop system. Record, mix, and master your tracks on the go with professional-grade tools and AI-powered creative assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
